@@ -1,0 +1,134 @@
+{
+    "stores": [
+      {
+        "id": 1,
+        "name": "Supermart",
+        "city": "New York",
+        "items": [
+          {
+            "id": 1,
+            "name": "Milk",
+            "regular_price": 2.99,
+            "sale_price": 1.99
+          },
+          {
+            "id": 2,
+            "name": "Bread",
+            "regular_price": 1.99,
+            "sale_price": 1.49
+          },
+          {
+            "id": 3,
+            "name": "Eggs",
+            "regular_price": 3.99,
+            "sale_price": 3.49
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Grocery Co",
+        "city": "Los Angeles",
+        "items": [
+          {
+            "id": 1,
+            "name": "Soy Milk",
+            "regular_price": 5.49,
+            "sale_price": 4.99
+          },
+          {
+            "id": 2,
+            "name": "Rye Bread",
+            "regular_price": 4.49,
+            "sale_price": 3.99
+          },
+          {
+            "id": 3,
+            "name": "Organic Eggs",
+            "regular_price": 7.49,
+            "sale_price": 6.99
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Corner Market",
+        "city": "Chicago",
+        "items": [
+          {
+            "id": 1,
+            "name": "Almond Milk",
+            "regular_price": 8.99,
+            "sale_price": 7.79
+          },
+          {
+            "id": 2,
+            "name": "Peanut Bread",
+            "regular_price": 6.99,
+            "sale_price": 5.49
+          },
+          {
+            "id": 3,
+            "name": "Ostrich Eggs",
+            "regular_price": 18.99,
+            "sale_price": 16.99
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Market Fresh",
+        "city": "Houston",
+        "items": [
+          {
+            "id": 1,
+            "name": "Weed",
+            "regular_price": 29.99,
+            "sale_price": 25.99
+          },
+          {
+            "id": 2,
+            "name": "LSD",
+            "regular_price": 99.999,
+            "sale_price": 95.99
+          },
+          {
+            "id": 3,
+            "name": "Cocaine",
+            "regular_price": 259.99,
+            "sale_price": 209.99
+          }
+        ]
+      },
+      {
+
+          "id": 5,
+            "name": "Salesman",
+            "city": "Kansas",
+            "items": [
+              {
+                "id": 1,
+                "name": "Beef",
+                "regular_price": 17.79,
+                "sale_price": 15.29
+              },
+              {
+                "id": 2,
+                "name": "Pork",
+                "regular_price": 13.79,
+                "sale_price": 12.39
+              },
+              {
+                "id": 3,
+                "name": "Chicken",
+                "regular_price": 8.29,
+                "sale_price": 7.79
+              }
+            ]
+      }
+    ]
+}
+      
+    
+     
+  
